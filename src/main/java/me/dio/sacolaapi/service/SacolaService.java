@@ -2,7 +2,7 @@ package me.dio.sacolaapi.service;
 
 import me.dio.sacolaapi.model.Item;
 import me.dio.sacolaapi.model.Sacola;
-import me.dio.sacolaapi.resource.dto.ItemDto;
+import me.dio.sacolaapi.resource.Dto.ItemDto;
 
 
 public interface SacolaService {
